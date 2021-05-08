@@ -5,14 +5,12 @@
 * Python
 
 ## 구현 암호 :boom:
----------------------------------------------------
 * Caesar Cipher
 * Subst Cipher
 * Vignere Cipher
 * TC20
 
 ## 구현 공격 :boom:
----------------------------------------------------
 * Exhaustive Key Search Attack
 * MITM Attack
 * TMTO Attck
